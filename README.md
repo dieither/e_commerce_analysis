@@ -108,7 +108,7 @@ The dataset was extracted from BigQuery and includes the following fields:
 ### Product Performance
 
 * High-revenue items are often not the most frequently sold
-* Categories like **Office Supplies** and **Technology** dominate revenue
+* Categories like **Sofas & armchairs** and **Chairs** dominate revenue
 * Pareto principle holds: top \~20% products contribute \~80% of revenue
 
 ### Regional Insights
