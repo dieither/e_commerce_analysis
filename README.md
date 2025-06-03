@@ -147,7 +147,3 @@ Includes:
 * Create an interactive dashboard (e.g., with Streamlit or Tableau)
 * Integrate promotional impact analysis
 * Extend ABC analysis with product lifecycle tracking
-
----
-
-Feel free to customize the GitHub URL and tweak findings based on your final insights. Let me know if you’d like help generating the `requirements.txt` or publishing a sample visualization!
